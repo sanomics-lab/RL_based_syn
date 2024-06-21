@@ -3,7 +3,12 @@ the framework based on reinforcement learning for forward synthesis
 
 Code for the paper "Synthetically Feasible De Novo Molecular Design of Leads Based on a Reinforcement Learning Model: AI-Assisted Discovery of an Anti-IBD Lead Targeting CXCR4"
 
-AI-Based Platform MolProphet [link](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01979)
+## Platform
+This research is based on MolProphet: A One-Stop, General Purpose, and AI-Based Platform for the Early Stages of Drug Discovery
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dw8h0BBQJvY/0.jpg)](https://www.youtube.com/watch?v=dw8h0BBQJvY)
+
+[Website](https://www.molprophet.com) | [Video Introduction](https://www.youtube.com/watch?v=dw8h0BBQJvY) | [Paper](https://doi.org/10.1021/acs.jcim.3c01979)
 
 ## Installation
 ```
