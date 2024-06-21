@@ -1,7 +1,7 @@
 # RL_based_syn
 the framework based on reinforcement learning for forward synthesis
 
-Code for the paper "Synthetically Feasible De Novo Molecular Design of Leads Based on a Reinforcement Learning Model: AI-Assisted Discovery of an AntiIBD Lead Targeting CXCR4"
+Code for the paper "Synthetically Feasible De Novo Molecular Design of Leads Based on a Reinforcement Learning Model: AI-Assisted Discovery of an Anti-IBD Lead Targeting CXCR4"
 
 AI-Based Platform MolProphet [link](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01979)
 
